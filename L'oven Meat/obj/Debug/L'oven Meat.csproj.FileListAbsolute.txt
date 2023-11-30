@@ -1,0 +1,14 @@
+C:\Users\Zombi\OneDrive\Escritorio\Este si es el bueno\L'oven Meat\L'oven Meat\obj\Debug\L'oven Meat.csproj.AssemblyReference.cache
+C:\Users\Zombi\OneDrive\Escritorio\Este si es el bueno\L'oven Meat\L'oven Meat\obj\Debug\L_oven_Meat.LOGIN.resources
+C:\Users\Zombi\OneDrive\Escritorio\Este si es el bueno\L'oven Meat\L'oven Meat\obj\Debug\L_oven_Meat.Principal.resources
+C:\Users\Zombi\OneDrive\Escritorio\Este si es el bueno\L'oven Meat\L'oven Meat\obj\Debug\L_oven_Meat.Properties.Resources.resources
+C:\Users\Zombi\OneDrive\Escritorio\Este si es el bueno\L'oven Meat\L'oven Meat\obj\Debug\L'oven Meat.csproj.GenerateResource.cache
+C:\Users\Zombi\OneDrive\Escritorio\Este si es el bueno\L'oven Meat\L'oven Meat\obj\Debug\L'oven Meat.csproj.CoreCompileInputs.cache
+C:\Users\Zombi\OneDrive\Escritorio\Este si es el bueno\L'oven Meat\L'oven Meat\bin\Debug\L'oven Meat.exe.config
+C:\Users\Zombi\OneDrive\Escritorio\Este si es el bueno\L'oven Meat\L'oven Meat\bin\Debug\L'oven Meat.exe
+C:\Users\Zombi\OneDrive\Escritorio\Este si es el bueno\L'oven Meat\L'oven Meat\bin\Debug\L'oven Meat.pdb
+C:\Users\Zombi\OneDrive\Escritorio\Este si es el bueno\L'oven Meat\L'oven Meat\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+C:\Users\Zombi\OneDrive\Escritorio\Este si es el bueno\L'oven Meat\L'oven Meat\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\Zombi\OneDrive\Escritorio\Este si es el bueno\L'oven Meat\L'oven Meat\obj\Debug\L'oven Meat.csproj.CopyComplete
+C:\Users\Zombi\OneDrive\Escritorio\Este si es el bueno\L'oven Meat\L'oven Meat\obj\Debug\L'oven Meat.exe
+C:\Users\Zombi\OneDrive\Escritorio\Este si es el bueno\L'oven Meat\L'oven Meat\obj\Debug\L'oven Meat.pdb
